@@ -14,10 +14,10 @@ So I am studying through **Codam** as part of the descent into madness to become
 💡 **What is Codam?**  
 Codam is part of the [42 Network](https://42network.org/), a global initiative that teaches programming without teachers or formal classes.  
 The curriculum is:  
-- **Peer-to-peer based** → students learn from each other.  
-- **Project-driven** → no lectures, only real coding projects.  
-- **Challenging** → build strong foundations in C, algorithms, system programming, graphics, AI, and more.  
-- **Collaborative** → teamwork, problem-solving, and creativity are essential.  
+- **Peer-to-peer based** → No teachers. Students learn from each other.
+- **Project-driven** → No lectures. We receive a project and it is up to us to figure out what we need to learn to complete it.  
+- **Challenging** → Building strong foundations in C, Python, algorithms, system programming, graphics, AI, and more.  
+- **Collaborative** → Teamwork, problem-solving, and creativity are essential. There are a lot of group projects, no teachers and no lectures.  
 
 ---
 
@@ -38,11 +38,19 @@ Here are some tools and books that help me along the way:
 - **Gitmoji** – Commit with fun emoji's  
 - **ft count line** – Makes sure my functions are not more than 25 lines because Norminette is a bee with an itch 🐝  
 - **42 C format** – Formats code in a file to be norminette compliant (that bee loves to sting you) 🐝  
-- **Codam Header** – Creates a header with the 42 logo, your details and information on the file (required for 42 projects)  
+- **Codam Header** – Creates a header with the 42 logo, your details and information on the file (required for 42 projects)
+- **Black Formatter** - Formatting support for my Python files
+- **autoDocstring** - Python Docstring generator
+- **Bongo Cat** - Yes I need this ^.^
+- **Flake8** - Python Flake8 linter
+- **Mypy** - Type checking for Python
+- **Python Indent** - Correctly indents my Python code. Someone once told you to install this. You should listen to them.
+- **Python Debugger** - Supports Python debugging with debugpy
 
 ---
 
 ## 🚀 Goals
+- Complete Codam
 - Learn to build cool web projects 🌐  
 - Contribute to our **home server & automation** setup 🏠  
 - Become a full-fledged software engineer ⚡  
