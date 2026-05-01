@@ -7,9 +7,9 @@
 ---
 
 ## 📖 Introduction
-Hi! I am an ADHD student with very little experience in coding. My husband is a Senior Software Engineer and his work seems really cool, and surprisingly creative!? I also want to create cool web stuff, and contribute to our (quickly growing) home server, and all our home automation...  
+Hi! I am an jack-of-all-trades student with very little experience in coding. My husband is a Senior Software Engineer and his work seems really cool, and surprisingly creative!? I also want to create cool web stuff, and contribute to our (quickly growing) home server, and all our home automation...  
 
-So I am studying through **Codam** as part of the descent into madness to become a software engineer.  
+So I am studying through **[Codam][https://www.codam.nl/en/]** as part of the descent into madness to become a software engineer.  
 
 💡 **What is Codam?**  
 Codam is part of the [42 Network](https://42network.org/), a global initiative that teaches programming without teachers or formal classes.  
