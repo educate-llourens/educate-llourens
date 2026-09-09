@@ -7,9 +7,7 @@
 ---
 
 ## 📖 Introduction
-Hi! I am an jack-of-all-trades student with very little experience in coding. My husband is a Senior Software Engineer and his work seems really cool, and surprisingly creative!? I also want to create cool web stuff, and contribute to our (quickly growing) home server, and all our home automation...  
-
-So I am studying through **[Codam](https://www.codam.nl/en/)** as part of the descent into madness to become a software engineer.  
+Hi! I'm Leandra and I like to dabble in a bit of everything ^.^ My husband is a Senior Software Engineer and his work seems really cool, and surprisingly creative!? I also want to create cool stuff, so I am studying Software Development through **[Codam](https://www.codam.nl/en/)** as part of the descent into madness to become a Software Engineer.  
 
 💡 **What is Codam?**  
 Codam is part of the [42 Network](https://42network.org/), a global initiative that teaches programming without teachers or formal classes.  
@@ -17,7 +15,7 @@ The curriculum is:
 - **Peer-to-peer based** → No teachers. Students learn from each other.
 - **Project-driven** → No lectures. We receive a project and it is up to us to figure out what we need to learn to complete it.  
 - **Challenging** → Building strong foundations in C, Python, algorithms, system programming, graphics, AI, and more.  
-- **Collaborative** → Teamwork, problem-solving, and creativity are essential. There are a lot of group projects, no teachers and no lectures.  
+- **Collaborative** → Teamwork, problem-solving, and creativity are essential. There are a lot of group projects, no teachers and no lectures. Good collaboration is the only way to progress through the course.
 
 ---
 
@@ -42,17 +40,19 @@ Here are some tools and books that help me along the way:
 - **Black Formatter** - Formatting support for my Python files
 - **autoDocstring** - Python Docstring generator
 - **Bongo Cat** - Yes I need this ^.^
+- **Pokechi** - Gotta collect them all XD. 6 Shines and counting!
 - **Flake8** - Python Flake8 linter
 - **Mypy** - Type checking for Python
 - **Python Indent** - Correctly indents my Python code. Someone once told you to install this. You should listen to them.
 - **Python Debugger** - Supports Python debugging with debugpy
+- **Indent-Rainbow** - Highlights your spacing. Extremely useful for languages like Python.
+- **Catpuccin Icons for VS Code** - Cute icons
+- **Live server** - Check changes to your web page as you making them
 
 ---
 
 ## 🚀 Goals
 - Complete Codam
-- Learn to build cool web projects 🌐  
-- Contribute to our **home server & automation** setup 🏠  
 - Become a full-fledged software engineer ⚡  
 
 ---
@@ -62,7 +62,5 @@ This is my personal learning journey, but I’m always open to tips and ideas!
 If you’re also on the 42 journey, feel free to share resources or suggestions.  
 
 ---
-
-## 📜 License
 This project is for personal learning and documentation.  
 Feel free to use anything here for your own studies 🚀.
