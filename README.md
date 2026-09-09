@@ -1,8 +1,4 @@
-# My Codam Journey
-
-[![42 Network](https://img.shields.io/badge/42-Network-blue?logo=42)](https://42network.org/)  [![Made with VS Code](https://img.shields.io/badge/Made%20with-VS%20Code-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)  [![ADHD Friendly](https://img.shields.io/badge/Learning-ADHD%20Friendly-ff69b4)](#)
-
----
+# My Codam Journey [![42 Network](https://img.shields.io/badge/42-Network-blue?logo=42)](https://42network.org/)  [![Made with VS Code](https://img.shields.io/badge/Made%20with-VS%20Code-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)  [![ADHD Friendly](https://img.shields.io/badge/Learning-ADHD%20Friendly-ff69b4)](#)
 
 ## 📖 Introduction
 Hi! I'm Leandra and I like to dabble in a bit of everything ^.^ My husband is a Senior Software Engineer and his work seems really cool, and surprisingly creative!? I also want to create cool stuff, so I am studying Software Development through **[Codam](https://www.codam.nl/en/)** as part of the descent into madness to become a Software Engineer.  
