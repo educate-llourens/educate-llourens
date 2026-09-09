@@ -11,15 +11,11 @@ The curriculum is:
 - **Challenging** → Building strong foundations in C, Python, algorithms, system programming, graphics, AI, and more.  
 - **Collaborative** → Teamwork, problem-solving, and creativity are essential. There are a lot of group projects, no teachers and no lectures. Good collaboration is the only way to progress through the course.
 
----
-
 ## 📚 Resources for the Journey
 Here are some tools and books that help me along the way:  
 
 - 📘 *The Linux Programming Interface* by Michael Kerrisk  
 - 🐞 [A debugger in your browser](https://www.gdbgui.com/)
-
----
 
 ## 💻 My Set-up
 - **IDE**: [Visual Studio Code](https://code.visualstudio.com/)  
@@ -43,18 +39,13 @@ Here are some tools and books that help me along the way:
 - **Catpuccin Icons for VS Code** - Cute icons
 - **Live server** - Check changes to your web page as you making them
 
----
-
 ## 🚀 Goals
 - Complete Codam
 - Become a full-fledged software engineer ⚡  
-
----
 
 ## 🤝 Contributing
 This is my personal learning journey, but I’m always open to tips and ideas!  
 If you’re also on the 42 journey, feel free to share resources or suggestions.  
 
----
 This project is for personal learning and documentation.  
 Feel free to use anything here for your own studies 🚀.
